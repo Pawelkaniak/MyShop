@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f77aa835-08c2-45fc-889d-8618a09878c8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/App.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/data/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/main/Main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/main/test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -240,12 +234,12 @@
       <workItem from="1510245155152" duration="16678000" />
       <workItem from="1510567374635" duration="599000" />
       <workItem from="1510858410118" duration="2690000" />
-      <workItem from="1511286025694" duration="5688000" />
+      <workItem from="1511286025694" duration="5725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25655000" />
+    <option name="totallyTimeSpent" value="25692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="-4" width="1843" height="1084" extended-state="6" />
